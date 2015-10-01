@@ -1,0 +1,10 @@
+{
+  "name": "epfl-exceptions",
+  "version": "0.0.1",
+  "description": "epfl-exceptions",
+  "main": "exceptions.js",
+  "author": {
+    "name": "nepa",
+    "email": ""
+  }
+}
