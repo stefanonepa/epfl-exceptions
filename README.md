@@ -1,6 +1,5 @@
- # epfl-exceptions 
- 
- Contain Exceptions for epfl packages
+# epfl-exceptions
+Contain Exceptions for epfl packages
 
 ```js
 var exceptions = require('epfl-exceptions');
